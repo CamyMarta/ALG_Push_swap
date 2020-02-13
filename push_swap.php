@@ -26,6 +26,6 @@ if ($verbose || $vverbose) { // si $verbose ou $vverbose fonction sa appelle mes
     echo "Total : " . count($calls);
 
 }
-var_dump($La);
+
 
 
